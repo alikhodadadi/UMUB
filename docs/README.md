@@ -1,6 +1,7 @@
-# UMUB: Modeling User Behaviour in Presence of Badges
+# UMUB: Modeling User Behavior in Presence of Badges
 ![Build Status](https://img.shields.io/teamcity/codebetter/bt428.svg)
 ![License](https://img.shields.io/badge/license-BSD-blue.svg)
+
 UMUB is a continues time model for user behavior in presence of gamification elements especially badges. The model is customized for CQA websites.
 This repository contains the implementaion details of the model.
 In case of any question please mail me MYLASTNAME@ce.sharif.edu
